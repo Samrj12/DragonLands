@@ -1,4 +1,5 @@
 ![me](https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif)
+<img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif"/>
 # DragonLands
 Play the game over here: https://play.unity.com/mg/other/dragonlands
 An action packed 2D platformer shooting game that is set in an alien land where you, as a dragon, need to travel through the dangerous lands and get home.
